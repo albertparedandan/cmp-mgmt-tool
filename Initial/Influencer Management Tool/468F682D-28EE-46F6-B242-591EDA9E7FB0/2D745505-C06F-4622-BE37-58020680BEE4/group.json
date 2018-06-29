@@ -38,6 +38,10 @@
     {
       "class": "text",
       "id": "E47A9767-9A6C-4942-A5F4-8F2A3FF29BF6"
+    },
+    {
+      "class": "group",
+      "id": "2310F4B6-C3F2-4D29-964A-1FDA93AEFC63"
     }
   ],
   "name": "header",

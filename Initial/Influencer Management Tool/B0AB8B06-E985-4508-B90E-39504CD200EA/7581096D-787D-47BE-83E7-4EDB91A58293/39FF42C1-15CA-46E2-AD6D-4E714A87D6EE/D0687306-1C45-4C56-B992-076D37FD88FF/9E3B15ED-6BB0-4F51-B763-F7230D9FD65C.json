@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "GillSans",
-              "size": 10
+              "size": 12
             }
           },
           "paragraphStyle": {
@@ -48,12 +48,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "ED848BEC-A996-4910-ADC1-F3DC01C0D6B3",
-    "height": 11,
-    "width": 57,
+    "height": 14,
+    "width": 68,
     "x": 11,
-    "y": 9
+    "y": 5
   },
-  "glyphBounds": "{{0, 2}, {56, 10}}",
+  "glyphBounds": "{{0, 2}, {67, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -87,7 +87,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "GillSans",
-            "size": 10
+            "size": 12
           }
         },
         "paragraphStyle": {
