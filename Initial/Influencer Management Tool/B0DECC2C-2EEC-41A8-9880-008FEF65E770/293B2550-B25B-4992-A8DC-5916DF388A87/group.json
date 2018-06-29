@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "293B2550-B25B-4992-A8DC-5916DF388A87",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FE064C5F-CC2C-4929-8D19-7DF7DD1EC486",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "27567B0D-D0D1-430F-B995-641106CD67B6",
+    "height": 40,
+    "width": 260,
+    "x": 58,
+    "y": 309
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7C30C7B5-EA9A-4213-A3D6-3F49D478651D"
+    },
+    {
+      "class": "group",
+      "id": "D5C088C2-B7C7-4F93-B02C-986E6FB59B40"
+    },
+    {
+      "class": "bitmap",
+      "id": "59A2136A-51ED-40A1-A359-0933276EB8F4"
+    }
+  ],
+  "name": "connect instagram",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E6521EDB-D3BA-408D-B1AF-D42612DF991B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

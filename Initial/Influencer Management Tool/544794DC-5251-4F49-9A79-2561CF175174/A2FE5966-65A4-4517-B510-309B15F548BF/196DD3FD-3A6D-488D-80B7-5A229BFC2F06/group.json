@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "196DD3FD-3A6D-488D-80B7-5A229BFC2F06",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0AF99E07-40B6-441E-9BD1-BDA6BDFF1ABE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C25B8D0B-8872-44D5-9827-6F98217A1AC6",
+    "height": 19,
+    "width": 50,
+    "x": 315,
+    "y": 17
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4EF110DE-1EBA-4580-9FEA-AC51B0C2BA8C"
+    },
+    {
+      "class": "text",
+      "id": "0FD6CB6B-29F8-4126-8ABB-00481E7E7008"
+    }
+  ],
+  "name": "login-button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B6BB3EAB-2079-436F-9AC1-F53EF04827D7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
