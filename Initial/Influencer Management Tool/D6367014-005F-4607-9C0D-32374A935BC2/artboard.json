@@ -29,7 +29,7 @@
     "y": 623
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,8 +44,28 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "018305A2-83E6-4E69-9111-5538DA35ED6E"
+    },
+    {
+      "class": "group",
+      "id": "0A75A42E-83D5-4BBF-B9C0-BB153168CB81"
+    },
+    {
+      "class": "group",
+      "id": "46C6270B-B4AD-4A4F-AF13-D754848BB5C5"
+    },
+    {
+      "class": "group",
+      "id": "DDE496B5-3C8E-45D8-AB9E-35EBD322CDC8"
+    },
+    {
+      "class": "text",
+      "id": "F8207229-B696-4A83-833E-11DD989E4953"
+    }
   ],
   "layout": {
     "_class": "layoutGrid",
