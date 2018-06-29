@@ -1,0 +1,49 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "4249ECE5-45FD-452C-ACDC-8C29FBA4D416",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "51CDF5D8-C8C4-4B75-BF50-3B21C0D68B5E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F7E2C6DE-380F-4D25-B7BA-CE373DCCE6DB",
+    "height": 12,
+    "width": 12,
+    "x": 27,
+    "y": 0.5
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/1c002acbfdc08b3853190569593bf5e9723ccd4f.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "instagram-icon",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D035C98D-54ED-4CCE-BFDA-954EA82A60AB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

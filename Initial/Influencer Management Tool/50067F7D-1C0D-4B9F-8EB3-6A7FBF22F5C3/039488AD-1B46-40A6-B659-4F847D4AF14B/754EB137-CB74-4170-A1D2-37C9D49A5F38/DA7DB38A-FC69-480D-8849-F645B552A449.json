@@ -15,12 +15,12 @@
   "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
+    "constrainProportions": false,
     "do_objectID": "9792315D-D9FB-4A10-AFEF-12DCCD422E0F",
     "height": 15,
-    "width": 17.26433121019111,
+    "width": 15,
     "x": 0,
-    "y": 3
+    "y": 2.5
   },
   "image": {
     "_class": "MSJSONFileReference",

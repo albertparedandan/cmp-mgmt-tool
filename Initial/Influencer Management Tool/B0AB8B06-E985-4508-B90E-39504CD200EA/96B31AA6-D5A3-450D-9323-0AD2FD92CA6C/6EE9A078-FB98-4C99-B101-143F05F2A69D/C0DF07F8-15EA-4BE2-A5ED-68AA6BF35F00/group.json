@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "C0DF07F8-15EA-4BE2-A5ED-68AA6BF35F00",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6D914E48-AEF4-4087-BBC0-21F34F3A23C6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E629A4EA-C3DE-4113-9208-E9021E5AD365",
+    "height": 13,
+    "width": 39,
+    "x": 102,
+    "y": 9
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "0B94D368-54CE-4C46-B7FF-060BE5A5F2A7"
+    },
+    {
+      "class": "text",
+      "id": "EF51D826-C641-4893-9401-4B12DFCB73FF"
+    },
+    {
+      "class": "bitmap",
+      "id": "FBE12AC6-8903-4150-A5F9-CF8ACDE6482A"
+    }
+  ],
+  "name": "social media",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8FB957E4-567D-4732-B9C1-8DC00B3A1E38",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

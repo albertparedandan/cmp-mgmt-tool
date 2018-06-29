@@ -25,15 +25,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "D06D9414-1DC9-473F-ABCF-6D9B58CC0ABA"
-    },
-    {
-      "class": "group",
-      "id": "9C0B6F80-4F7F-4DE1-9870-A10C4EBC97A3"
     },
     {
       "class": "group",
@@ -49,11 +45,27 @@
     },
     {
       "class": "text",
-      "id": "43086C0B-07E0-422F-883D-D0C4B2DD9664"
+      "id": "D36CC2CE-40AD-432D-A313-464EBDBEFE6B"
+    },
+    {
+      "class": "group",
+      "id": "36AF14B2-0BAF-42C0-B082-066BAEAD704E"
     },
     {
       "class": "text",
-      "id": "D36CC2CE-40AD-432D-A313-464EBDBEFE6B"
+      "id": "31F74A7D-30EA-4B3D-A9FD-8B9283B03E13"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C0BAAAD5-FD19-48D0-99D1-55BDFC7CBE7D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "18827BD1-02E0-4646-A952-7333E846FA1F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5AA989FB-FC61-482D-AB1B-A9C6DC89EFF1"
     }
   ],
   "name": "navbar",
