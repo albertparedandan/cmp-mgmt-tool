@@ -25,11 +25,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 17,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "PENDING CAMPAIGNS"
+    "string": "PENDING"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "E502E106-8D73-431C-8871-0F45ECDB1506",
@@ -49,18 +49,18 @@
     "constrainProportions": false,
     "do_objectID": "EF002530-22DA-4047-9CAD-04D26905826C",
     "height": 21,
-    "width": 182,
-    "x": 184,
+    "width": 78,
+    "x": 278,
     "y": 510
   },
-  "glyphBounds": "{{1, 4}, {181, 14}}",
+  "glyphBounds": "{{1, 4}, {76, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "PENDING CAMPAIGNS",
+  "name": "PENDING",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

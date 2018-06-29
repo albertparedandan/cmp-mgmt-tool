@@ -25,11 +25,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 16,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "ACTIVE CAMPAIGNS"
+    "string": "ACTIVE"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "251CA631-0CFB-4AE7-98E6-5DC717459264",
@@ -49,18 +49,18 @@
     "constrainProportions": false,
     "do_objectID": "EF280304-8968-4084-9048-5C8E9A177943",
     "height": 21,
-    "width": 164,
-    "x": 202,
+    "width": 60,
+    "x": 296,
     "y": 464
   },
-  "glyphBounds": "{{0, 4}, {163, 14}}",
+  "glyphBounds": "{{0, 4}, {59, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "ACTIVE CAMPAIGNS",
+  "name": "ACTIVE",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

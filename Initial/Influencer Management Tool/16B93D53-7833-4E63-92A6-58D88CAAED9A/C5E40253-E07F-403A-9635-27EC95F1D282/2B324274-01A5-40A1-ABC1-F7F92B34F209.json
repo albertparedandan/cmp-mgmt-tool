@@ -25,11 +25,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 19,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "COMPLETED CAMPAIGNS"
+    "string": "COMPLETED"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "2B324274-01A5-40A1-ABC1-F7F92B34F209",
@@ -49,18 +49,18 @@
     "constrainProportions": false,
     "do_objectID": "969E2D96-C053-4FAC-9915-967150589565",
     "height": 21,
-    "width": 207,
-    "x": 159,
+    "width": 102,
+    "x": 253,
     "y": 556
   },
-  "glyphBounds": "{{0, 4}, {206, 14}}",
+  "glyphBounds": "{{0, 4}, {102, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "COMPLETED CAMPAIGNS",
+  "name": "COMPLETED",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
