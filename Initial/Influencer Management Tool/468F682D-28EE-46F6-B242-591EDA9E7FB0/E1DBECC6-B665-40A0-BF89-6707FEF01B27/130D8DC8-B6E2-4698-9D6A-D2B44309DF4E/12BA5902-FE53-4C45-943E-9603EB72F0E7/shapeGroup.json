@@ -16,10 +16,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F7A26DE3-731E-445C-8B32-AF56DC7BA3B6",
-    "height": 11.11880045333064,
-    "width": 5.994769011375624,
-    "x": 346.0026154943121,
-    "y": 40.00113086412421
+    "height": 14.0065465418389,
+    "width": 7.564990083852227,
+    "x": 343.6671283652535,
+    "y": 8.775684527319198
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -42,7 +42,7 @@
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": -180,
+  "rotation": -270,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

@@ -25,11 +25,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 13,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "Draft Pending"
+    "string": "Invited"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "21A4A45E-5529-4385-A75A-2CCDE545D992",
@@ -49,18 +49,18 @@
     "constrainProportions": false,
     "do_objectID": "5C80BF66-C6D9-4211-A4AE-6011B21A1BA6",
     "height": 14,
-    "width": 68,
-    "x": 11,
-    "y": 8
+    "width": 33,
+    "x": 27,
+    "y": 9
   },
-  "glyphBounds": "{{0, 2}, {67, 12}}",
+  "glyphBounds": "{{0, 2}, {32, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Draft Pending",
+  "name": "Invited",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

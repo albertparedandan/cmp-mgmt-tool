@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "AEC058FF-63DF-4C15-BABC-CC7CA3058966",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EF6852B5-257E-449B-9CEF-8AF1F5053FE4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "32AB3114-03CE-4A99-AE7B-EDF863AB4678",
+    "height": 121,
+    "width": 361,
+    "x": 7,
+    "y": 783
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "D6108839-F8E3-452A-BEC9-EB97F5717529"
+    },
+    {
+      "class": "group",
+      "id": "DD167DE2-6BFE-4E16-981D-27C84D9426AA"
+    }
+  ],
+  "name": "Active Campaigns",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2DAA784D-39DF-454F-8D7B-2BDFC9BE9B77",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

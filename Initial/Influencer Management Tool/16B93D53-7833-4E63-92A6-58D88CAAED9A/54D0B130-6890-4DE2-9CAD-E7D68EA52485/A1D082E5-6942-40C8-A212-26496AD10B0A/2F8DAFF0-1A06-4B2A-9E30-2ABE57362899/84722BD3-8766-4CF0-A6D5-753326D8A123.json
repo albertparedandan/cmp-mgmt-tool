@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "GillSans-Light",
-              "size": 11
+              "size": 12
             }
           },
           "paragraphStyle": {
@@ -48,12 +48,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "7A8C9CA0-A6F8-45F8-8956-3142F18BF8DB",
-    "height": 13,
-    "width": 88,
+    "height": 14,
+    "width": 96,
     "x": 0,
-    "y": 18
+    "y": 17
   },
-  "glyphBounds": "{{0, 2}, {88, 9}}",
+  "glyphBounds": "{{0, 2}, {96, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -87,7 +87,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "GillSans-Light",
-            "size": 11
+            "size": 12
           }
         },
         "paragraphStyle": {

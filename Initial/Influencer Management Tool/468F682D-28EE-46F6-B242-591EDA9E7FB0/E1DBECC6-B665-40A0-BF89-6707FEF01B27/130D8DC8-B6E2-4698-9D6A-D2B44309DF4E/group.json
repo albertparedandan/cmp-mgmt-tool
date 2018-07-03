@@ -15,7 +15,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1CA59517-746D-4A59-A6B3-02FC85666162",
-    "height": 90,
+    "height": 29,
     "width": 361,
     "x": 0,
     "y": 0
@@ -25,38 +25,22 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "04C1CA15-ECA2-46DC-80F0-03B4ECF1C218"
     },
     {
-      "class": "group",
-      "id": "6F796BB2-463B-46A2-913E-C9ACCDC24C6B"
-    },
-    {
       "class": "text",
       "id": "B457277D-313A-4BED-ADD0-F99B4B9B5D7D"
-    },
-    {
-      "class": "text",
-      "id": "3E2E3499-CDAE-419C-8797-8A69DB521630"
-    },
-    {
-      "class": "group",
-      "id": "C49745F7-B1B5-4B5D-BF1F-ACDED783EA16"
-    },
-    {
-      "class": "group",
-      "id": "F5527458-F98F-48C8-AD94-4CE1E58BF5AF"
     },
     {
       "class": "shapeGroup",
       "id": "12BA5902-FE53-4C45-943E-9603EB72F0E7"
     }
   ],
-  "name": "card 1 copy",
+  "name": "micro-essence launching campaign",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "GillSans",
-              "size": 16
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -25,11 +25,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 12,
+        "length": 32,
         "location": 0
       }
     ],
-    "string": "Estee Lauder"
+    "string": "Micro-essence Launching Campaign"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "B457277D-313A-4BED-ADD0-F99B4B9B5D7D",
@@ -48,19 +48,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "9444BBE1-16C2-4D49-80A1-6098BF7D4173",
-    "height": 19,
-    "width": 85,
+    "height": 21,
+    "width": 259,
     "x": 10,
-    "y": 5
+    "y": 3
   },
-  "glyphBounds": "{{1, 4}, {84, 12}}",
+  "glyphBounds": "{{1, 4}, {257, 18}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Estee Lauder",
+  "name": "Micro-essence Launch",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -87,7 +87,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "GillSans",
-            "size": 16
+            "size": 18
           }
         },
         "paragraphStyle": {

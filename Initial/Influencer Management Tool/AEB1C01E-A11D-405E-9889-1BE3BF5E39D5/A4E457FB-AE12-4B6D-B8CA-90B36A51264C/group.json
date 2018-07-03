@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "A4E457FB-AE12-4B6D-B8CA-90B36A51264C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9F122B40-1917-4EFD-8D0E-976AA444D468",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "159ACB30-342C-4483-8199-D388EB8E771A",
+    "height": 287,
+    "width": 361,
+    "x": 8,
+    "y": 383
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6A95BA9F-C590-4B66-A1FA-28B504A486CC"
+    }
+  ],
+  "name": "campaign details copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0310A4AB-E092-4AC2-B3DC-83D3DA6148C6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
