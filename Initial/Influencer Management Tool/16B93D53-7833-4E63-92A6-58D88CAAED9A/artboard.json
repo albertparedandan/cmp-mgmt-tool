@@ -44,7 +44,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -65,10 +65,6 @@
     {
       "class": "group",
       "id": "E413BB4C-1779-4C2F-9F5C-3CC7C0C9BF59"
-    },
-    {
-      "class": "group",
-      "id": "FD29DD1F-8F98-4BDB-BED8-57CFC877315E"
     },
     {
       "class": "group",

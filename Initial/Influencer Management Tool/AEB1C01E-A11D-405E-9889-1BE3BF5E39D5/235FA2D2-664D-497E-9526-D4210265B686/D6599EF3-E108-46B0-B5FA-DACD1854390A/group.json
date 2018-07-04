@@ -15,7 +15,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "84D70F64-51F5-4249-9532-A26A02865098",
-    "height": 287,
+    "height": 474,
     "width": 361,
     "x": 0,
     "y": 0
@@ -42,6 +42,10 @@
     {
       "class": "shapeGroup",
       "id": "6C03FDB8-220F-4F3F-AF01-F60951DE4D80"
+    },
+    {
+      "class": "text",
+      "id": "C2C5EAB2-642B-4EF4-8C17-7CE578FB4267"
     }
   ],
   "name": "micro-essence launching campaign",

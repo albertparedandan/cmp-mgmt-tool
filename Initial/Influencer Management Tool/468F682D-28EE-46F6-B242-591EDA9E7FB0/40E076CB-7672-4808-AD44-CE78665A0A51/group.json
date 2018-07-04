@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "40E076CB-7672-4808-AD44-CE78665A0A51",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A5EF3FC6-9239-4C2B-B812-3668C5823007",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B8E9ECA6-CFE7-458B-927E-79C4CD44FAF5",
+    "height": 166,
+    "width": 361,
+    "x": 7,
+    "y": 443
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B68A782A-7EE8-4FE6-AB40-113AE4124D9B"
+    },
+    {
+      "class": "text",
+      "id": "1A4653F3-A2F0-4B22-A241-F63F63AC4DAB"
+    },
+    {
+      "class": "text",
+      "id": "434A607E-CAC6-4C94-B11E-7510F6A2455C"
+    },
+    {
+      "class": "group",
+      "id": "ACF39AF4-FE6D-45B5-A1A3-8E44D00BE70B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A2729FC3-9D92-43F6-946F-040F39989C85"
+    }
+  ],
+  "name": "campaign requirements copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0442D10C-4867-476B-9E8B-5DCE93259187",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

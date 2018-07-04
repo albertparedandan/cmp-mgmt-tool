@@ -25,8 +25,8 @@
     "do_objectID": "6DD9D07B-5552-4F51-874D-5D3A4E5337B8",
     "height": 667,
     "width": 375,
-    "x": 1713,
-    "y": 622
+    "x": 2137,
+    "y": 621
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -44,7 +44,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -52,7 +52,7 @@
     },
     {
       "class": "group",
-      "id": "02B3D6FA-AAF3-45E6-B1D8-BC26F212B31F"
+      "id": "F6BFD8E2-77C0-4466-94B7-8623744D2653"
     },
     {
       "class": "group",
