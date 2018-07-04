@@ -13,9 +13,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 231,
-    "width": 175,
-    "x": 190,
+    "height": 266,
+    "width": 245,
+    "x": 120,
     "y": 60
   },
   "hasClickThrough": false,
@@ -34,20 +34,12 @@
       "id": "2F713CAF-1835-4FC3-93A0-5B4A85B28123"
     },
     {
-      "class": "shapeGroup",
-      "id": "849BB9A1-798D-4B57-A58F-1F6BBFACF35E"
+      "class": "group",
+      "id": "DCA756C4-2140-48C3-9D3F-E171DEDBA00F"
     },
     {
-      "class": "shapeGroup",
-      "id": "A84E0507-045C-4D7A-8AD2-7CE18F33EF60"
-    },
-    {
-      "class": "text",
-      "id": "BC54AF02-1BB2-4F13-8E8F-AB72AB8F993D"
-    },
-    {
-      "class": "text",
-      "id": "7B011A13-75D6-43D7-B780-0B637A66875D"
+      "class": "group",
+      "id": "7571BC92-2808-4458-990C-B71E751A9A83"
     },
     {
       "class": "bitmap",
@@ -56,6 +48,10 @@
     {
       "class": "text",
       "id": "2923B396-45DE-4A72-BEFB-00F6B3A39936"
+    },
+    {
+      "class": "group",
+      "id": "94F186C6-EEA3-4883-8902-F31227527743"
     }
   ],
   "name": "my profile",

@@ -25,11 +25,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 17,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "PENDING CAMPAIGNS"
+    "string": "MARKETPLACE"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "A5987F20-296E-4823-A8D9-9740E19577A9",
@@ -49,18 +49,18 @@
     "constrainProportions": false,
     "do_objectID": "08245D1A-2DDB-43E9-AA34-4B16616628CC",
     "height": 21,
-    "width": 203,
-    "x": 86,
+    "width": 133,
+    "x": 121,
     "y": 14.5
   },
-  "glyphBounds": "{{1, 4}, {201, 15}}",
+  "glyphBounds": "{{1, 4}, {132, 15}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "PENDING CAMPAIGNS",
+  "name": "MARKETPLACE",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
