@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "9FCBD01C-DA2E-4111-BDFA-8A6AB1656B26",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "04F9F546-32BB-4E3A-9AAA-24B515B2FD62",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EEFC9042-B81D-4A25-A987-D586CC2D3EC4",
+    "height": 29,
+    "width": 361,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "28D1578E-AD1C-4F71-89BB-435EBAED380B"
+    },
+    {
+      "class": "text",
+      "id": "A9347C4F-7460-4859-ABAD-85BAED282AF8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E207CC16-E1AC-4114-92A0-D2AEA8FCAAA3"
+    }
+  ],
+  "name": "micro-essence launching campaign",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3BC5A58C-31B0-4F08-887F-739EC38B6E2C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
