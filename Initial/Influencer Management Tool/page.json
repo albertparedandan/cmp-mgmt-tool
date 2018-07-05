@@ -34,6 +34,10 @@
   "layers": [
     {
       "class": "artboard",
+      "id": "8F658C92-5CA2-47B3-AA8C-1B1E792DDDA6"
+    },
+    {
+      "class": "artboard",
       "id": "BB1462BA-B3B2-445A-B1B7-0C83B3E87984"
     },
     {
@@ -50,6 +54,10 @@
     },
     {
       "class": "artboard",
+      "id": "7E5460A5-E63E-4CA9-83E7-42016915CCDB"
+    },
+    {
+      "class": "artboard",
       "id": "0229BF65-557B-4579-B734-851B243E32AD"
     },
     {
@@ -63,6 +71,10 @@
     {
       "class": "artboard",
       "id": "583ECE1F-2C77-4717-B192-EE748AAB43FF"
+    },
+    {
+      "class": "artboard",
+      "id": "31E1EFE6-5A75-40BE-ADA7-48F0ACA78A12"
     },
     {
       "class": "artboard",
@@ -123,6 +135,10 @@
     {
       "class": "artboard",
       "id": "68215C32-EB8A-4F77-B1B6-31683E6A5049"
+    },
+    {
+      "class": "artboard",
+      "id": "151CEAAE-BA74-4BA1-8F9D-1EDD05578950"
     }
   ],
   "name": "Influencer Management Tool",

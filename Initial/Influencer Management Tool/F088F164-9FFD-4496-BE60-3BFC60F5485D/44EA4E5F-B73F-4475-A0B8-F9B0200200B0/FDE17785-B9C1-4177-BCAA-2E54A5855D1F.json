@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "OFFER"
+    "string": "COUNTER-OFFER"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "FDE17785-B9C1-4177-BCAA-2E54A5855D1F",
@@ -50,18 +50,18 @@
     "constrainProportions": false,
     "do_objectID": "72B28BA7-9868-40E7-BD6E-C2C15D4CBD2B",
     "height": 23,
-    "width": 58,
-    "x": 74.5,
+    "width": 159,
+    "x": 24,
     "y": 7
   },
-  "glyphBounds": "{{0, 4}, {58, 15}}",
+  "glyphBounds": "{{0, 4}, {159, 15}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "OFFER",
+  "name": "COUNTER-OFFER",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

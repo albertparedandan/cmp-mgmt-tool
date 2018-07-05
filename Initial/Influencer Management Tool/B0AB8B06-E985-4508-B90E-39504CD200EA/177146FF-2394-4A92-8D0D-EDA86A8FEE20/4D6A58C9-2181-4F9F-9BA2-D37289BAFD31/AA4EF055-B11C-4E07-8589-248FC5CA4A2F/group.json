@@ -15,10 +15,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "91E0C1CB-B0D2-4643-8566-ABDE94512172",
-    "height": 26,
+    "height": 19,
     "width": 86,
     "x": 270,
-    "y": 0
+    "y": 6
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -34,10 +34,6 @@
     {
       "class": "text",
       "id": "C525DAA7-4FEE-44C4-894F-FB164E99D0BE"
-    },
-    {
-      "class": "text",
-      "id": "4392D89B-BD19-4FB5-9A6C-9517D4AA81FB"
     }
   ],
   "name": "status",

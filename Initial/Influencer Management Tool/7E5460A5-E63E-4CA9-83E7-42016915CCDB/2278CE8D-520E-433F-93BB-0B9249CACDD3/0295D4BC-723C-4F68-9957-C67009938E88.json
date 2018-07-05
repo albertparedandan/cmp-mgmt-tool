@@ -1,0 +1,49 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "0295D4BC-723C-4F68-9957-C67009938E88",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AADD8AD6-2E3F-4F58-86AA-8201CF1730D2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "D1FF36D1-C60D-43E1-8E8E-766DC6D62686",
+    "height": 28,
+    "width": 28,
+    "x": 11,
+    "y": 11
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/a9690fb64c78eb78039c89d1460a84500592d3a3.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "logo-Cloudbreark-small Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2B2ADEE8-8353-4567-A0BC-94E4B661722E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

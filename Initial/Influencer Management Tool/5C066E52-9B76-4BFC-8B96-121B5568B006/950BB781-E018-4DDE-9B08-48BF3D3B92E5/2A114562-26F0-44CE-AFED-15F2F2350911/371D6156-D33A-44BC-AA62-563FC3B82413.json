@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "UPLOAD"
+    "string": "SUBMIT"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "371D6156-D33A-44BC-AA62-563FC3B82413",
@@ -49,18 +49,18 @@
     "constrainProportions": false,
     "do_objectID": "469C4033-6AF7-42B5-BA61-B5337C666313",
     "height": 21,
-    "width": 72,
-    "x": 26,
+    "width": 62,
+    "x": 31,
     "y": 6
   },
-  "glyphBounds": "{{1, 4}, {69, 14}}",
+  "glyphBounds": "{{0, 4}, {61, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "UPLOAD",
+  "name": "SUBMIT",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

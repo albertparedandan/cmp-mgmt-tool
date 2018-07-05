@@ -15,17 +15,17 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "C58ABE4E-E8DC-4B80-94C1-34CEE43CFA57",
-    "height": 91,
+    "height": 90,
     "width": 361,
     "x": 7,
-    "y": 185
+    "y": 186
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
