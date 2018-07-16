@@ -1,9 +1,9 @@
 {
   "_class": "group",
-  "do_objectID": "E8712721-6A63-435A-8389-CE29E0C514CF",
+  "do_objectID": "EB1C6D99-4087-476E-961A-675C02E49E2A",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "9A79D3D9-1BA8-4188-8327-5DDABB574E08",
+    "do_objectID": "0759AC4B-E0BA-4027-944D-7D8FED78802E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,11 +14,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "48E9B869-D42A-4B57-B975-E866E3D2A88F",
-    "height": 201,
+    "do_objectID": "71783537-A679-4596-A617-F24F3A5668E1",
+    "height": 155,
     "width": 361,
     "x": 7,
-    "y": 234
+    "y": 154
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -29,26 +29,18 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "215A0513-04F1-4024-A637-8572953B8619"
+      "id": "331F2FD2-FEE5-4889-91D2-DDC69D0EB2F6"
     },
     {
       "class": "text",
-      "id": "FD8BC705-2D96-432C-849D-B9618159E82A"
-    },
-    {
-      "class": "text",
-      "id": "92FC2113-4728-461C-B5E0-57DDAF136181"
-    },
-    {
-      "class": "text",
-      "id": "9FA245BD-5BDC-4DDB-86FB-AE2D304D2B8F"
+      "id": "C9277EBC-0082-4147-A861-4A5DE43845FE"
     },
     {
       "class": "group",
-      "id": "2D355794-281B-4269-9C86-B2C967EBCFD4"
+      "id": "C22C9D5D-FE79-4AFC-9B0C-F21FFEBA4763"
     }
   ],
-  "name": "campaign requirements",
+  "name": "Instagram",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -56,7 +48,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0BB6C4A1-4CA0-4029-BE4C-0D594F26408A",
+    "do_objectID": "507F5100-6ADA-4CCB-80F6-7141580CAC3E",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0

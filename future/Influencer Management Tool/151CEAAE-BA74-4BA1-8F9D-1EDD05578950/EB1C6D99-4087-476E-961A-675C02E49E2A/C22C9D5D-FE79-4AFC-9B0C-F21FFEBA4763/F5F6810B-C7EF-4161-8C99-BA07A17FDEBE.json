@@ -17,27 +17,26 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "GillSans",
-              "size": 11
+              "size": 20
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2
+            "_class": "paragraphStyle"
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 14,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Report\nPending"
+    "string": "11.55k"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "CDE62B11-2D72-4040-9927-C5D4EA0266A4",
+  "do_objectID": "F5F6810B-C7EF-4161-8C99-BA07A17FDEBE",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F93C6457-8F6E-419E-802D-54E8F130D247",
+    "do_objectID": "E67B9468-E2B6-4B0F-A752-8C83ACBBE61C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -48,20 +47,20 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "15B47CDA-8AA5-461C-904C-140879BA2755",
-    "height": 26,
-    "width": 35,
-    "x": 0,
-    "y": 16.36585365853659
+    "do_objectID": "2DF2B75A-DD25-4A49-8741-33DB403E9FEB",
+    "height": 23,
+    "width": 54,
+    "x": 192,
+    "y": 29
   },
-  "glyphBounds": "{{1, 2}, {34, 24}}",
+  "glyphBounds": "{{4, 4}, {51, 15}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Report Pending",
+  "name": "11.55k",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -69,13 +68,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "C31F9B2F-2286-4B6E-A095-11E0D52C8552",
+    "do_objectID": "51FECAAC-C034-441A-A03E-4A6DC04D7CDF",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "C4B5CF75-FB63-443B-9B4C-213D6DB21424",
+      "do_objectID": "F5574BEF-94DD-499A-8E66-B2FDD1F78E27",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -88,17 +87,16 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "GillSans",
-            "size": 11
+            "size": 20
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 2
+          "_class": "paragraphStyle"
         },
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }
