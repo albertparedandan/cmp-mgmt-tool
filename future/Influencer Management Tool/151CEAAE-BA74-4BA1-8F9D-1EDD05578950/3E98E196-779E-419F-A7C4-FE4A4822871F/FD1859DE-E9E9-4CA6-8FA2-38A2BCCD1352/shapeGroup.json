@@ -1,10 +1,10 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "4C3CDB68-8649-4A81-AD9C-5719D28EDF62",
+  "do_objectID": "FD1859DE-E9E9-4CA6-8FA2-38A2BCCD1352",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "8EAE7218-C2DB-40B0-B3E8-71BFE49DCB66",
+    "do_objectID": "2A7D81D8-D83C-43D0-9C56-A3E14A9BE454",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,11 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E60D1737-1A99-4B15-8393-2B764D32DEE4",
-    "height": 25,
-    "width": 94,
-    "x": 0,
-    "y": 0
+    "do_objectID": "E7B2AC30-2165-4FD8-92E8-490DDD9DACF8",
+    "height": 14.0065465418389,
+    "width": 7.564990083852227,
+    "x": 343.6671283652535,
+    "y": 8.7756845273193
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,18 +27,22 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
-      "id": "FFF2ED9A-698E-4321-B9C3-5957CE938D20"
+      "id": "4095CD18-0BD0-4A09-8E93-C7C127E732DE"
+    },
+    {
+      "class": "rectangle",
+      "id": "DC0C7DDD-4E49-403B-93B6-95D581A7ACB1"
     }
   ],
-  "name": "Rectangle 6",
-  "nameIsFixed": false,
+  "name": "backarrow",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 0,
+  "rotation": -270,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -48,17 +52,17 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 0.09803921568627445,
+          "green": 0.7019607843137254,
+          "red": 0.9647058823529412
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "position": 1,
-        "thickness": 1
+        "thickness": 0
       }
     ],
-    "do_objectID": "2E8BA9FF-5968-4DF0-8227-5776CC534383",
+    "do_objectID": "B3DD243C-11F0-4509-908C-C5CCF16F3953",
     "endDecorationType": 0,
     "fills": [
       {
@@ -74,7 +78,7 @@
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 1,
+        "patternFillType": 0,
         "patternTileScale": 1
       }
     ],

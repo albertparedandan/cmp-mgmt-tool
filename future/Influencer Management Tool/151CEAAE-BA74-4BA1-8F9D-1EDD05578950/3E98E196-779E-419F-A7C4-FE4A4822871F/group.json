@@ -15,37 +15,29 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B957394E-0DEC-40FA-9663-5CE94392C107",
-    "height": 201,
+    "height": 29,
     "width": 361,
-    "x": 7,
-    "y": 397
+    "x": 8,
+    "y": 400
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "4149AD48-2A81-44A2-90A8-C906C0AD17FF"
+      "id": "BEC7D8DF-3F34-4E04-9B16-A7AE34C760FF"
     },
     {
-      "class": "text",
-      "id": "8634C695-A055-466C-B78C-01BC80C40457"
+      "class": "shapeGroup",
+      "id": "FD1859DE-E9E9-4CA6-8FA2-38A2BCCD1352"
     },
     {
       "class": "text",
       "id": "4416DD89-2F62-45EF-A896-7A3A4DD7E02F"
-    },
-    {
-      "class": "text",
-      "id": "069C63E5-7328-461C-891D-A7F9BE6412EF"
-    },
-    {
-      "class": "group",
-      "id": "9DF85B15-26A6-4A19-8F58-421A3E27DDF0"
     }
   ],
   "name": "campaign requirements",

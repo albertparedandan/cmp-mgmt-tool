@@ -1,10 +1,10 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "4149AD48-2A81-44A2-90A8-C906C0AD17FF",
+  "do_objectID": "BEC7D8DF-3F34-4E04-9B16-A7AE34C760FF",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A428AEF8-B0B0-42C3-B4B1-26600AA1AFE8",
+    "do_objectID": "E08872E7-59B3-48E5-B2F4-2919085B6869",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C4D7CC50-76A7-4553-A108-BC88676BD7A8",
-    "height": 201,
+    "do_objectID": "C25FAAEC-7043-4D9A-8B83-B307B6CC5BE1",
+    "height": 29,
     "width": 361,
     "x": 0,
     "y": 0
@@ -31,7 +31,7 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "28AF2B4E-F27F-4CF1-80ED-5574CE065465"
+      "id": "02944AF6-703A-4ACB-870E-095AB1658739"
     }
   ],
   "name": "Card 1",
@@ -58,7 +58,7 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "5FB80BF4-51C5-4C86-A516-C67696386B3B",
+    "do_objectID": "B596B6AD-A2A0-4265-A805-ED0C68EDA1D8",
     "endDecorationType": 0,
     "fills": [
       {
